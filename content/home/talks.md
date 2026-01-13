@@ -39,7 +39,9 @@ title: 'Talks'
 #   #   4 = Citation (publication only)
 #   view: 2
 ---
-
+- Laboratoire Jacques-Louis Lions, Paris, 16 September 2025\
+  [Brèves de CAGE](https://www.ljll.fr/~sigalotti/cage/seminars.html): *Geometric condition for the observability of the Schrödinger equations with magnetic potential on two-dimensional tori*,
+  [**Slides**](media/cage.pdf)
 - Beijing Institute of Technology, Beijing, 28 April 2025\
   [Online talk](https://math.bit.edu.cn/docs/2025-04/8fe64f9859c74e6aa79555d2c964b648.pdf): *On the small-time controllability of KdV equations*,
   [**Slides**](media/kdv-bit.pdf)
