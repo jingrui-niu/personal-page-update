@@ -63,4 +63,4 @@ email: ""
 # Highlight the author in author lists? (true/false)
 highlight_name: false
 ---
-I am currently a tenure-tracked associate professor at the [Institute for Advanced Study in Mathematics](https://im.hit.edu.cn/en/main.htm) of Harbin Institute of Technology. I obtained my Ph.D. degree at Université Paris-Saclay under the supervision of [Nicolas Burq](https://www.imo.universite-paris-saclay.fr/~nb/) and [Pierre Lissy](https://cermics.enpc.fr/~lissyp/).
+I am currently an associate professor \(tenure-track\) at the [Institute for Advanced Study in Mathematics](https://im.hit.edu.cn/en/main.htm) of Harbin Institute of Technology. I obtained my Ph.D. degree at Université Paris-Saclay under the supervision of [Nicolas Burq](https://www.imo.universite-paris-saclay.fr/~nb/) and [Pierre Lissy](https://cermics.enpc.fr/~lissyp/).
