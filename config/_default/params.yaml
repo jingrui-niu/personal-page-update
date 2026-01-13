@@ -14,27 +14,27 @@ font_size: L
 
 site_type: Person
 local_business_type: ''
-org_name: 'Laboratoire Jacques-Louis Lions'
-description: 'Jingrui NIU - Laboratoire Jacques-Louis Lions'
+org_name: 'Institute for Advanced Study in Mathematics'
+description: 'Jingrui NIU - Institute for Advanced Study in Mathematics'
 keyword: 
   - Jingrui NIU
 twitter: ''
 
 # Contact (edit or remove options as required)
 
-email: jingrui.niu@sorbonne-universite.fr
+email: jingrui.niu@hit.edu.cn
 # phone: 888 888 88 88
 address:
-  street: 4 place Jussieu
-  city: Paris
+  street: NO.92 West Da Zhi St. 
+  city: Harbin
   region: 
-  postcode: '75005'
-  country: France
-  country_code: FR
+  postcode: '150001'
+  country: China
+  country_code: CN
 coordinates:
-  latitude: '48.84671025501151'
-  longitude: '2.354895369311538'
-directions: Tour 15-16, Office 305
+  latitude: '45.74505012382109'
+  longitude: '126.62997101210185'
+directions: Gewu Building, Office 316
 # office_hours:
 #   - 'Monday 10:00 to 13:00'
 #   - 'Wednesday 09:00 to 10:00'
