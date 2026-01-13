@@ -15,7 +15,7 @@ publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
 publication: "Journal de Mathématiques Pures et Appliquées"
-publication_short: "J. Math. Pures Appl. \(9\)"
+publication_short: "J. Math. Pures Appl. (9)"
 
 abstract: "We consider an exact controllability problem in a smooth bounded domain, for a coupled wave system, with different speeds and a single control acting  on a subdomain satisfying the Geometric Control Condition and on one speed only. Actions for the wave equations with the second speed are obtained through a coupling term. Firstly, we construct appropriate state spaces with compatibility conditions associated with the coupling structure. Secondly, in these well-prepared spaces, we prove that the coupled wave system is exactly controllable if and only if the coupling structure satisfies an operator Kalman rank condition."
 
