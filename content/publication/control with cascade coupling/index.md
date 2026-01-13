@@ -1,7 +1,7 @@
 ---
 title: "Controllability of a coupled wave system with a  single control and different speeds"
 authors: [Pierre Lissy, admin]
-date: 2021-09-01T18:21:43+01:00
+date: 2026-01-04T18:21:43+01:00
 doi: "https://doi.org/10.1016/j.matpur.2025.103808"
 
 # Schedule page publish date (NOT publication's date).
