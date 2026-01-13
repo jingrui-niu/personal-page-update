@@ -6,22 +6,22 @@ title: Jingrui NIU
 superuser: true
 
 # Role/position/tagline
-role: Postdoctoral researcher
+role: Associate professor
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Laboratoire Jacques-Louis Lions, Sorbonne Université
-  url: "https://www.ljll.fr/"
+- name: Institute for Advanced Study in Mathematics, Harbin Institute of Technology
+  url: "https://jingrui-niu.github.io/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include control of PDEs, and microlocal analysis.
+bio: My research interests include control of PDEs.
 
 # Interests to show in About widget
 interests:
 - Dispersive equations
-- Microlocal Analysis 
+- Microlocal analysis and semiclassical analysis 
 - Controllability and Stabilization of dispersive equations and coupled systems
-- Control of quantum mechanical systems
+- Unique continuation
 
 # Education to show in About widget
 education:
@@ -43,7 +43,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:jingrui.niu@sorbonne-universite.fr'
+  link: 'mailto:jingrui.niu@hit.edu.cn'
 - icon: google-scholar  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: ai
   link: https://scholar.google.com/citations?user=oa2kys4AAAAJ&hl=en
@@ -63,4 +63,4 @@ email: ""
 # Highlight the author in author lists? (true/false)
 highlight_name: false
 ---
-I am currently a post-doc at Laboratoire Jacques Louis-Lions under the supervision of [Ugo Boscain](https://www.ljll.fr/~boscain/) and [Mario Sigalotti](https://www.ljll.fr/sigalotti/). I am also a member of the [Inria Team CAGE](https://www.ljll.fr/~sigalotti/cage/home.html) and [Inria Team McTAO](https://team.inria.fr/mctao/). I obtained my Ph.D. degree at Université Paris-Saclay under the supervision of [Nicolas Burq](https://www.imo.universite-paris-saclay.fr/~nb/) and [Pierre Lissy](https://cermics.enpc.fr/~lissyp/).
+I am currently a tenure-tracked associate professor at the [Institute for Advanced Study in Mathematics](https://im.hit.edu.cn/en/main.htm) of Harbin Institute of Technology. I obtained my Ph.D. degree at Université Paris-Saclay under the supervision of [Nicolas Burq](https://www.imo.universite-paris-saclay.fr/~nb/) and [Pierre Lissy](https://cermics.enpc.fr/~lissyp/).
