@@ -14,8 +14,8 @@ publishDate: 2026-05-04T18:21:43+01:00
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Preprint"
-publication_short: ""
+publication: "Journal of the London Mathematical Society. Second Series"
+publication_short: "J. Lond. Math. Soc. (2)"
 
 abstract: "In this article, we revisit the observability of the Schrödinger equation on the two-dimensional torus. In contrast to the Schrödinger operator with a purely electric potential, for which any non-empty open set guarantees observability, the presence of a magnetic potential introduces an additional obstruction. We establish a sufficient and almost necessary geometric condition for the observability of electromagnetic Schrödinger operators. This condition incorporates the magnetic potential, which can also be characterized by a geometric control condition for the corresponding magnetic field."
 
