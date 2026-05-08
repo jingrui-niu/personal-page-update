@@ -2,7 +2,7 @@
 title: "Geometric condition for the observability of electromagnetic Schrödinger operators on T^2$"
 authors: [Kévin Le Balc'h, admin, Chenmin Sun]
 date: 2026-05-04T18:21:43+01:00
-doi: ""
+doi: "https://doi.org/10.1112/jlms.70555"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: 2026-05-04T18:21:43+01:00
