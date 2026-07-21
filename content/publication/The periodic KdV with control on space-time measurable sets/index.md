@@ -1,11 +1,11 @@
 ---
 title: "The periodic KdV with control on space-time measurable sets"
 authors: [admin, Ming Wang, Shengquan Xiang]
-date: 2025-07-18T18:21:43+01:00
+date: 2026-07-18T18:21:43+01:00
 doi: "https://doi.org/10.1016/j.jfa.2026.111621"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2025-07-18T18:21:43+01:00
+publishDate: 2026-07-18T18:21:43+01:00
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
