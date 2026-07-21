@@ -2,7 +2,7 @@
 title: "Stability of a Korteweg-de Vries equation close to critical lengths"
 authors: [admin, Shengquan Xiang]
 date: 2026-03-30T18:21:43+01:00
-doi: ""
+doi: "https://doi.org/10.48550/arXiv.2603.27605"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: 2026-03-30T18:21:43+01:00
@@ -33,7 +33,7 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_preprint: https://arxiv.org/abs/2512.09873
+url_preprint: https://arxiv.org/abs/2603.27605
 url_code:
 url_dataset:
 url_poster:
