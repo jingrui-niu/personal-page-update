@@ -39,6 +39,15 @@ title: 'Talks'
 #   #   4 = Citation (publication only)
 #   view: 2
 ---
+- Athens, 9 July 2026\
+  [15th AIMS Conference Special Session SS158 “From PDE control to the qualitative study of (random) dynamical systems"](https://aimsconference.org/AIMS-Conference/conf-reg2026/ss/changeApp12.php?ssid=158): *Stability of a KdV equation close to critical lengths*.
+- Beijing Institute of Technology, Beijing, 25 June 2026\
+  [Invited talk](https://math.bit.edu.cn/docs/2026-06/f0b30cce020c4038b6cdc3c6ba7bfa7a.pdf): *Simultaneous Controllability of Multispeed Wave Systems*.
+- Beijing Institute of Technology, Beijing, 26 May 2026\
+  [Invited talk](https://math.bit.edu.cn/docs/2026-05/2f23d51770e2475a89951f63b899fb4f.pdf): *Stability of a KdV equation close to critical lengths*,
+  [**Slides**](media/kdv-bit.pdf)
+- Central South University, Changsha, 18 April 2026\
+  [Workshop on control and PDEs]: *Stability of a KdV equation close to critical lengths.
 - Laboratoire Jacques-Louis Lions, Paris, 16 September 2025\
   [Brèves de CAGE](https://www.ljll.fr/~sigalotti/cage/seminars.html): *Geometric condition for the observability of the Schrödinger equations with magnetic potential on two-dimensional tori*,
   [**Slides**](media/cage.pdf)
