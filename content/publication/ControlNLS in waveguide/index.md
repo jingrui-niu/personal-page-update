@@ -11,11 +11,11 @@ publishDate: 2025-02-13T18:21:43+01:00
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["3"]
+publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Preprint"
-publication_short: ""
+publication: "Indiana University Mathematics Journal"
+publication_short: "To appear in Indiana Univ. Math. J"
 
 abstract: "Strichartz estimates, well-posedness theory and long time behavior for (nonlinear) Schrödinger equations on waveguide manifolds are intensively studied in recent decades while the corresponding control theory and observability estimates remain incomplete. The purpose of this short paper is to investigate the observability and controllability for Schrödinger equations in the waveguide (semi-periodic) setting. 
 
