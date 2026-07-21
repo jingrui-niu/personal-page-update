@@ -11,7 +11,7 @@ role: Associate professor
 # Organizations/Affiliations to show in About widget
 organizations:
 - name: Institute for Advanced Study in Mathematics, Harbin Institute of Technology
-  url: "https://jingrui-niu.github.io/"
+  url: "https://im.hit.edu.cn/en/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include control of PDEs.
